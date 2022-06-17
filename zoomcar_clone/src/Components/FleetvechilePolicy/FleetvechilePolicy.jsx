@@ -147,11 +147,10 @@ function FleetvechilePolicy() {
       </div>
       <p className={styles.notepayment}>
         Note: Payments owed by members will be deducted from the security
-        deposit. If the security deposit does not cover such payments, the
-        balance must be paid by the member electronically.
+        deposit. 
       </p>
       <div className={styles.member}>
-        <h1 style={{textAlign: "left", color: "green"}}>Member's Responsibility</h1>
+        <h1 style={{textAlign: "left", color: "green", marginBottom:"50px"}}>Member's Responsibility</h1>
         <p style={{color: "black", fontWeight:"500"}}>
           If a Zoomcar member is violating the law or Zoomcar rules, for example
           by overspeeding or driving drunk, the member will be responsible for

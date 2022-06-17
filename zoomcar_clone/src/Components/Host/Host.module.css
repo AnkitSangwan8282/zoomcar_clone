@@ -2,12 +2,13 @@
 
 
 
-.video-stories-1 {
+.videostories1 {
     width: 90%;
     height: 350px;
     padding: 1%;
     margin-top: 0%;
     margin-left: 3%;
+    margin-bottom: 150px;
 }
 
 .bg {
@@ -19,7 +20,7 @@
 
 }
 
-.bg-subtext {
+.bgsubtext {
     width: 100%;
     height: 300px;
     color: white;
@@ -35,7 +36,7 @@
     letter-spacing: 2px;
 }
 
-.bg-smalltext {
+.bgsmalltext {
     margin-top: 2%;
     margin-bottom: 100px;
     width: 100%;
@@ -50,7 +51,7 @@
     letter-spacing: 1px;
 }
 
-.bg-smalltext button {
+.bgsmalltext button {
     background-color: #10a310;
     border: none;
     width: 15%;
@@ -62,7 +63,7 @@
     letter-spacing: 1.0px;
 }
 
-.videoStories-timeline {
+.videoStoriestimeline {
     margin-left: 4%;
     position: absolute;
     display: flex;
@@ -75,65 +76,55 @@
 
 }
 
-.videoStories-progress {
+.videoStoriesprogress {
     background: #fff;
     height: 3px;
     border-radius: 3px;
     width: 0;
 }
 
-.videoStories-slice {
+.videoStoriesslice {
     background: #858585;
     height: 3px;
     border-radius: 3px;
     margin: 8px 4px;
     width: 100%;
 }
-.video-stories-2 {
-    width: 90%;
-    margin: 0;
-    height: 700px;
-}
-
-.video-stories-2 video {
-    width: 100%;
-    margin-left: 5%;
-    height: 75%;
-    box-shadow: 1px 30px #ECEFF1, -6em 0 6em #ECEFF1;
-}
 
 
 
 
 
-
-.host-main{
+.hostmain{
     width:1100px;
     margin: auto;
 
 }
-.host-box-1{
+.hostbox1{
     text-align: center;
-    font-size: 53px;;
+    font-size: 53px;
+    margin-bottom: 150px;
     
     
 }
-.host-box-1-grid{
+.hostbox1grid{
     display: grid;  
     margin:20px;
     font-size: 20px;
     grid-template-columns: 49% 39%;
+    margin-top: 50px;
 }
-.host-box-1-grid-img{
+.hostbox1gridimg{
     width:450px;
     margin-left: 30px;;
 }
-.host-main-box-2{
+.hostmainbox2{
     height: 420px;
     width: 1100px;
+    margin-top: 200px;
 
 }
-.host-main-box-2-flex{
+.hostmainbox2flex{
     
     display: flex;
    
@@ -142,145 +133,135 @@
     
 
 }
-.host-main-box-2-m{
+.hostmainbox2m{
     margin-left:30px;
     max-width:300px; 
 
 }
-.host-main-box-2-img{
+.hostmainbox2img{
     width: 300px; 
 
 }
-.host-main-box-2-color{
+.hostmainbox2color{
     color: #737373;
 
 }
-.host-box-3-img{
+.hostbox3img{
     width: 1100px;
 }
 
-.host-box-4{
+.hostbox4{
     width: 550px;
     font-size:30px;
-    margin:0px;
+    margin: 10px;
 }
-.host-box-4-font{
+.hostbox4font{
     width: 550px;
     font-size:20px;
 }
-.host-box-4-button{
+.hostbox4button{
     margin-top: 20px;
     background-color: #00C853;
     color: white;
     height: 50px;
-    width: 170px;;
+    width: 200px;;
     border-radius: 5px;
 }
-.host-box-4-font-1{
+.hostbox4font1{
     margin-top: 20px;
     font-size: 17px;
     margin-bottom: 30px;
     
 }
 
-.host-box-5{
-    padding: 30px;
-    border-radius: 15px;
-    background-color: #1C1917;
- 
-    
+.cpadding{
+    padding-bottom: 40px;
 }
-.host-box-5-grid{
+.hostbox5grid{
   
     display: grid;
-    grid: 500px 200px;
-    height: 350px;
-    display: grid;
     grid-template-columns:45% 40% ;
+    font-size: 20px;
     
 }
-.host-box-5-color{
-    color: white;
-    font-size: 20px;
-   
-}
-.host-box-5-img{
+
+.hostbox5img{
     width: 500px;
     text-align: center;
     justify-content: center;
    
 }
-.host-box-5-color-f{
+.hostbox5colorf{
     color: white;
     font-size: 17px;
    
 }
 
 
-.host-box-6{
+.hostbox6{
     margin-top:60px;
     height: 200px;
     border-radius:10px;
     background-color:#E5E5E5;
 }
 
-.host-box-6-text{
+.hostbox6text{
     padding-top:30px;
     font-size:14px;
     text-align: center;
 }
 
 
-.host-box-7{
+.hostbox7{
     margin-top:60px;
     height: 650px;
     border-radius:10px;
     background-color:#F5F5F5;
 }
-.host-box-7-grid{
+.hostbox7grid{
   
     display: grid;
     grid-template-columns: 250px 250px 250px 250px 250px 250px;  
     overflow-x: auto;  
 }
-.host-box-7-font{
+.hostbox7font{
   
   font-size:18px; 
   color: #737373; 
   margin:20px 20px 10px 0px;
 }
-.host-box-7-color{
+.hostbox7color{
   
     font-size:18px; 
     color: #A8A29E; 
     
   }
 
-.host-box-8{
-    padding-top:50px;
+.hostbox8{
+    padding-top:150px;
     display:grid;
     grid-template-columns: 300px 800px;
 }
-.host-box-8-L-font{
+.hostbox8Lfont{
     font-size:22px;
 }
-.host-box-8-R{
+.hostbox8R{
     text-align: top;
    
     margin:auto;
     display:grid;
     grid-template-columns: 700px 100px;
 }
-.host-box-8-R-font{
+.hostbox8Rfont{
     font-size:17px;
 }
-.host-box-8-R-img{
+.hos-box8Rimg{
     text-align: center;
     width:30px;
     height: 30px;
 }
 
-.host-box-8-border{
+.hostbox8border{
     border: solid 1.2px #BDBDBD;
     width: 750px;
 }
@@ -288,24 +269,25 @@
 
 
 
-.host-box-9{
+.hostbox9{
     padding-top:50px;
     display:grid;
     grid-template-columns: 300px 800px;
     padding-bottom: 0px;
 }
-.host-box-9-border{
-    border: solid 1.2px #BDBDBD;
-    width: 800px;
+.hostbox9border{
+    width: 1000px;
     border-radius: 5px;
 }
-.host-box-9-R{
-    margin-left: 20px;
+.hostbox9R{
+    border: solid 1.2px #BDBDBD;
+    margin-left: 200px;
     display:grid;
     grid-template-columns: 550px 250px;
+    margin-bottom: 100px;
 
 }
-.host-box-9-R-In{
+.hostbox9RIn{
     text-align: top;
     display:grid;
     grid-template-columns: 300px 250px;
@@ -313,7 +295,7 @@
 }
         
 
-.host-box-10-border{
+.hostbox10border{
     margin-top:50px;
     background-color:#F5F5F5 ;
     
@@ -322,12 +304,12 @@
     border-radius: 5px;
     /* height: 20px; */
 }
-.host-box-10-In{
+.hostbox10In{
     padding-top:50px ;
     
 
 }
-.host-box-10-border-in{
+.hostbox10borderin{
     margin-left: 20px;
     border: solid .5px #4E342E;
     width: 70px;
