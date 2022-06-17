@@ -1,0 +1,89 @@
+
+.container{
+    display: grid;
+    width: 70%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+   grid-template-rows: auto;
+   margin: auto;
+   margin-top: 150px;
+   font-family: sans-serif;
+   gap: 30px;
+   padding: 20px;
+    
+}
+
+.top{
+    display: grid;  
+    gap: 30px; 
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    cursor: pointer;
+    
+}
+.info > div{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin: auto;
+    padding: 5px;
+}
+
+.active, #info > div:hover {
+  background-color: #ccc; 
+}
+.accordion {
+  background-color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+.bb{
+    display: grid;
+   width: 70%;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+   justify-content: space-around;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    height: 150px;
+}
+
+.cont{
+    display: flex;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    justify-content: space-between;
+    
+    
+}
+.cont > div{
+    
+    width: 200px;
+    text-align: center;
+    
+}
+.active, #cont > div:hover {
+  background-color: #ccc; 
+}
+.cont > div > h2{
+    margin-bottom: 20px;
+}

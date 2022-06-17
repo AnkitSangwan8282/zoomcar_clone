@@ -1,0 +1,49 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+      Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #413a45;
+  }
+  
+  .container{
+    display: grid;
+    width: 70%;
+    margin: auto;
+  }
+  .main {
+    display: flex;
+    justify-content: space-between;
+  }
+  .active,
+  .main > div:hover {
+    background-color: rgb(226, 226, 226);
+  }
+  h1 {
+    text-align: center;
+  }
+  #table {
+    color: none;
+  }
+  table,
+  tr,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+  }
+  
+  .member {
+    text-align: justify;
+    text-justify: inter-word;
+    width: 70%;
+    margin: auto;
+  }
+  .freepol{
+    color: #76b797";
+  }
+
+  .notepayment{
+    width: 70%; margin: auto"
+  }
+  

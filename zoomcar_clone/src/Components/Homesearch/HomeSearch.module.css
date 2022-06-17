@@ -1,0 +1,96 @@
+.mainSanatized {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+.front_intro {
+  width: 100vw;
+  height: 80vh;
+  background-image: url("https://www.zoomcar.com/img/bg-desktop.png");
+  background-size: cover;
+  background-position: bottom;
+  padding: 150px 0%;
+  background-position: 40% 0;
+  box-sizing: border-box;
+}
+
+.title {
+  width: 80%;
+  height: 90%;
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+.firstline {
+  font-size: 3vw;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.692);
+}
+.journey {
+  display: flex;
+  justify-content: center;
+  margin: 25px auto;
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0.692);
+  border-radius: 5px;
+  line-height: 40px;
+  text-align: left;
+  text-indent: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  cursor: pointer;
+  text-decoration: none;
+  
+}
+.searchbtn {
+  display: block;
+  margin: 25px auto;
+  width: 500px;
+  height: 50px;
+  background-color: rgb(41, 201, 54);
+  border-color: rgba(0, 0, 0, 0.692);
+  border-radius: 5px;
+  line-height: 40px;
+  text-indent: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+  
+}
+.journey p {
+  display: flex;
+  text-decoration: none;
+  border: grey;
+  color: black;
+  /* align-items: center; */
+  font-size: 15px;
+  margin: 0%;
+}
+.journey p img {
+  width: 20px;
+  height: 30px;
+  margin-left: 240px;
+  margin-top: 7px;
+}
+.city {
+  color: rgb(255, 255, 255);
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px dotted white;
+  font-size: 25px;
+  cursor: pointer;
+}
+.title .subhead {
+  font-size: 25px;
+  font-weight: 400;
+  color: black;
+}
+.city option {
+  color: black;
+  font-size: 15px;
+}

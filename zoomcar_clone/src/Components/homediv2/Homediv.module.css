@@ -1,0 +1,72 @@
+.container1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.container0{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.container0inner{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    text-align: left;
+    padding-left: 2%;
+
+}
+.container0inner0{
+    box-shadow: 2px 2px 4px #646262;
+}
+.container0inner1{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    text-align: left;
+    padding-left: 2%;
+    box-shadow: 2px 2px 4px #646262;
+}
+
+.promocode{
+    color: gray;
+    border: 4px dotted gray;
+    padding: 4px;
+}
+.appinstall{
+    color: green;
+    font-weight: bold;
+}
+
+.container0ref{
+    display: flex;
+}
+.container1img{
+    width: 100%;
+}
+
+.container2img{
+    width: 100%;
+    height: 400px;
+}
+.container3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    height: 250px;
+    overflow: scroll;
+}
+
+.container3img{
+    width: 100%;
+    height: 300px;
+}

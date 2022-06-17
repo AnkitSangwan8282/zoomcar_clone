@@ -1,0 +1,52 @@
+.main {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+
+
+
+
+.aboutus > div {
+  padding: 5px;
+  text-align: center;
+}
+
+.aboutus a {
+  color: rgb(7, 7, 7);
+  font-size: 15px;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+
+.contentInc {
+  width: 100%;
+  background-color: #eaeaea;
+  margin-top: -20px;
+}
+.content {
+  color: rgb(56, 54, 54);
+  margin: auto;
+  padding: 10px;
+  width: 74vw;
+  font-size: 13px;
+  text-align: justify;
+}
+.content a {
+  text-decoration: none;
+  color: blueviolet;
+}
+.content h3 {
+  font-weight: 600;
+  padding-top: 15px;
+  color: rgb(119, 119, 106);
+
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.companycopyright{
+  text-align:center;
+  margin-top: 50px;
+}

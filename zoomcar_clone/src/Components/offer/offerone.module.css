@@ -1,0 +1,24 @@
+.container1{
+    height: 100px;
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 4%;
+    background-color: black;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.container2{
+    width: 60%;
+    margin: auto;
+    text-align: left;
+}
+.offer1img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.boldtext{
+    font-weight: bold;
+    text-decoration: underline;
+}
