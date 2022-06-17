@@ -8,3 +8,7 @@ The company's ever-expanding fleet is currently clocking nearly 3,000 cars pan-I
 https://github.com/AnkitSangwan8282/zoomcar_clone/issues/1#issue-1274741627
 
 <h1>Signup</h1>
+![signup](https://user-images.githubusercontent.com/76602737/174265239-cf0e6dc1-5bc8-453e-afd8-c03bcb66c3cf.PNG)
+
+
+<h1>footer</h1>
