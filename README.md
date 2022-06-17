@@ -19,3 +19,10 @@ https://github.com/AnkitSangwan8282/zoomcar_clone/issues/1#issue-1274741627
 
 <h1>Offers</h1>
 ![offers](https://user-images.githubusercontent.com/76602737/174265564-bfe57ce1-0933-4c8e-a58b-62036d54201f.PNG)
+
+
+
+<h1>blog</h1>   https://medium.com/@ankitsangwan8282/zoomcar-clone-d5e28d9fad44
+
+<h1>netlify</h1>  https://courageous-pony-671d24.netlify.app/
+<h1>Github</h1>   https://github.com/AnkitSangwan8282/zoomcar_clone
