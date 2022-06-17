@@ -12,3 +12,10 @@ https://github.com/AnkitSangwan8282/zoomcar_clone/issues/1#issue-1274741627
 
 
 <h1>footer</h1>
+![footer](https://user-images.githubusercontent.com/76602737/174265497-d9dcb4aa-d129-4c9c-8263-9a6196196031.PNG)
+
+<h1>ZMS</h1>
+![zms](https://user-images.githubusercontent.com/76602737/174265520-78d98694-7f5a-4a00-a701-93befde6c85f.PNG)
+
+<h1>Offers</h1
+![offers](https://user-images.githubusercontent.com/76602737/174265564-bfe57ce1-0933-4c8e-a58b-62036d54201f.PNG)
